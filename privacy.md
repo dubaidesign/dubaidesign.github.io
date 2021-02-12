@@ -1,6 +1,6 @@
 ---
 layout: blank
-title: Privacy Policy
+title: Privacy Policy Freelance Web Designer Dubai
 permalink: privacy
 ---
 
