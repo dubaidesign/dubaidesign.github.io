@@ -18,7 +18,7 @@ permalink: /service/
 
 ## More about my Services
 
-I offer a comprehensive implementation of websites, starting from graphics, through CMS administration panel to individually prepared modules.
+As [Freelance Web Designer Dubai](/) I offer a comprehensive implementation of websites, starting from graphics, through CMS administration panel to individually prepared modules.
 
 When designing and implementing the site I strongly rely on:
 

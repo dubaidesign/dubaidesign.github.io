@@ -13,7 +13,7 @@ Intuitive and easy to use WordPress admin panel allows you to edit the site your
 
 WordPress is easy to use and that is what made it famous. Unlike Drupal or Joomla, for example, WordPress does not require knowledge of PHP or HTML. WordPress has a feature to install plugins and templates, which you can use in a very simple way and change the functionality of the site. You select the appropriate plugin or template and click to install it.
 
-WordPress has a large community of users both in Dubai and around the world who provide free support by writing on blogs, discussion forums, or Facebook groups. WordPress primarily has a huge online community in English, but also has strong support in Dubai.
+WordPress has a large community of users both in Dubai and around the world who provide free support by writing on blogs, discussion forums, or Facebook groups. WordPress primarily has a huge online community in English, but also has strong support in [Dubai](/).
 
 ## Plugins
 

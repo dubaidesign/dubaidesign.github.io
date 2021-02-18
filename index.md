@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Freelance Web Designer San Francisco
+title: Freelance Web Designer Dubai
 ---
 
 # Professional web design for companies from Dubai
