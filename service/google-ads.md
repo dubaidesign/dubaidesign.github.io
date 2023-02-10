@@ -7,7 +7,7 @@ permalink: /service/google-ads
 
 ## Dubai Google Ads Services
 
-Make yourself known to Google users who are searching for your business or services through Google Search or on Google Maps in Dubai. Behind AdWords Ads You only pay for results when someone clicks on your ad and visits your website or calls your business. We manage that as [Freelance Web Designer Dubai](/).
+Make yourself known to Google users who are searching for your business or services through Google Search or on Google Maps in Dubai. Behind <a href="https://en.wikipedia.org/wiki/Google_Ads" target="_blank">AdWords</a> Ads You only pay for results when someone clicks on your ad and visits your website or calls your business. We manage that as [Freelance Web Designer Dubai](/).
 
 Google is everywhere people look for information about what to do, where to go, or what to buy. Your Google Ads ad can appear on Google Search or Maps when a user searches for products or services similar to yours. AdWords advertising displayed to users at the right moment on a computer or smartphone can turn any user into your new customer.
 
