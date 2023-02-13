@@ -21,7 +21,7 @@ My search engine optimization consists of on-page SEO, <a href="https://en.wikip
 
 ## On-Page SEO
 
-Here, measures are taken directly on the website to improve ranking, click behavior and usability. This is achieved by optimizing technical factors (load time, crawling, indexing, ...) and visual factors (keywords, page structure, snippets, ...).
+To enhance ranking, click behavior, and usability, direct measures are implemented on the website. This involves optimizing both technical aspects, such as load time, crawling, and indexing, as well as visual elements, such as keywords, page structure, and snippets.
 
 In my work we put emphasis on preparing a detailed strategy of action. In order to prepare it according to the individual needs of the Client, at the very beginning I have to determine what are our goals and where do we start. That is why I perform SEO audit, thanks to which I receive answers to the most important questions.
 
