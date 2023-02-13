@@ -16,7 +16,7 @@ If the website is informative and of high quality, other web portals will gladly
 My search engine optimization consists of on-page SEO, <a href="https://en.wikipedia.org/wiki/Content_marketing" target="_blank">content marketing</a>, link audit and monitoring.
 
 
-<img src="/seo-dubai.png" alt="picture of dubai">
+<img src="/seo-dubai.webp" alt="picture of dubai">
 
 
 ## On-Page SEO
