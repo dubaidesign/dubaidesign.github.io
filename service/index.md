@@ -8,7 +8,7 @@ permalink: /service/
 ## My Services for Dubai
 
 
-* [SEO](/service/search-engine-optimization)
+* [Freelance SEO Dubai](/service/search-engine-optimization)
 * [Content Marketing](/service/content-marketing)
 * [User Interface Design](/service/ui-design)
 * [Mobile web design](/service/mobile-websites)
