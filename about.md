@@ -13,4 +13,8 @@ Greetings! I am a seasoned [freelance web designer located in Dubai](/), fueled 
 
 I possess a keen sense of design and a comprehensive understanding of the components that make a website visually appealing and user-friendly. Regardless of whether you're looking for a basic website to display your business or a sophisticated e-commerce platform, I have the necessary skills and experience to bring your vision to reality. My top priority is to work closely with my clients to guarantee their complete satisfaction, and I always make a point to deliver projects promptly and within budget.
 
-If you're seeking a gifted and dedicated freelance web designer in Dubai, I would be honored to discuss your project with you. Let's work together to create something extraordinary!
+Besides my web design services, I also offer [freelance SEO for the Dubai area](/service/search-engine-optimization). This way you not only get a proper website, but you'll also get seen by your customers. Isn't that great?
+
+So, if you're seeking a gifted and dedicated freelance web designer in Dubai, I would be honored to discuss your project with you. Let's work together to create something extraordinary!
+
+
