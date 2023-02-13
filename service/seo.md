@@ -1,17 +1,22 @@
 ---
 layout: blank
-title: SEO
+title: Freelance SEO Dubai
 description: Your website is poorly or not at all findable in Google? I can help you with our search engine optimization.
 permalink: /service/search-engine-optimization
 ---
 
 ## Search Engine Optimization Dubai
 
-For a portal to be found in the search results for revenue-generating keywords, you need a good user experience, proper added value and a technically flawless page. Link recommendations in the form of a backlink are not to be despised here, but in a natural and not purchased or exchanged way. I offer these services as [Freelance Web Designer Dubai](/).
+As a freelance SEO (<a href="https://en.wikipedia.org/wiki/Search_engine_optimization">Search Engine Optimization</a>), I'm able to help you improve your Google rankings, by adding the right content and by improving your technical SEO. No matter if you're doing local SEO in Jumeirah or Downtown Dubai.
+
+For a page to be found in Googles search results for revenue-generating keywords, you need a good user experience, proper added value and a technically flawless page. Link recommendations in the form of a backlink are not to be despised here, but in a natural and not purchased or exchanged way. I offer these services as [Freelance Web Designer Dubai](/).
 
 If the website is informative and of high quality, other web portals will gladly and voluntarily link to it. Exactly that must be the highest goal with the lasting search machine optimization. This way, customers and service providers do not have to fear Google updates, but can even look forward to them.
 
-Our search engine optimization consists of onpage, content marketing, link audit and monitoring.
+My search engine optimization consists of on-page SEO, <a href="https://en.wikipedia.org/wiki/Content_marketing" target="_blank">content marketing</a>, link audit and monitoring.
+
+
+<img src="/seo-dubai.png" alt="picture of dubai">
 
 
 ## On-Page SEO
