@@ -1,7 +1,7 @@
 ---
 layout: blank
 title: Freelance SEO Dubai
-description: Your website is poorly or not at all findable in Google? I can help you with our search engine optimization.
+description: Your website is poorly or not at all findable in Google? I can help you with my freelance search engine optimization service.
 permalink: /service/search-engine-optimization
 ---
 
